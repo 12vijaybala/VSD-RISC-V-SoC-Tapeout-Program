@@ -38,7 +38,12 @@ $ make
 $ sudo make install
 ```
 ### Terminal Results
+
+<div align="center">
+    
 ![Alt Text](Clicks/Yosys.png)
+
+</div>
 
 ## 2. Icarus Verilog (Iverilog) Installation
 
@@ -48,7 +53,12 @@ $ sudo apt-get update
 $ sudo apt-get install iverilog
 ```
 ### Terminal Results
+
+<div align="center">
+    
 ![Alt Text](Clicks/iverilog.png)
+
+</div>
 
 ## 3. GTKWave Installation
 
@@ -58,4 +68,9 @@ $ sudo apt install gtkwave
 ```
 
 ### Terminal Results
+
+<div align="center">
+    
 ![Alt Text](Clicks/Gtkwave.png)
+
+</div>
