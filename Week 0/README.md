@@ -37,7 +37,7 @@ $ git submodule update --init --recursive
 $ make
 $ sudo make install
 ```
-### Terminal Results
+### Terminal Result
 
 <div align="center">
     
@@ -52,7 +52,7 @@ $ sudo make install
 $ sudo apt-get update
 $ sudo apt-get install iverilog
 ```
-### Terminal Results
+### Terminal Result
 
 <div align="center">
     
@@ -67,7 +67,7 @@ $ sudo apt-get update
 $ sudo apt install gtkwave
 ```
 
-### Terminal Results
+### Terminal Result
 
 <div align="center">
     
