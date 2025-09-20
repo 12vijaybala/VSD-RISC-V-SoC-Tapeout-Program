@@ -8,13 +8,11 @@
 ### System Requirements
 Ensure your system meets the following minimum requirements before proceeding with installation:
 
-RAM: 6 GB
+-RAM: 6 GB
+-Storage: 50 GB HDD
+-OS: Ubuntu 20.04 or later
+-CPU: 4 vCPUs
 
-Storage: 50 GB HDD
-
-OS: Ubuntu 20.04 or later
-
-CPU: 4 vCPUs
 ## Tool Installation & Verification
 ### 1.Yosys Installation
 
